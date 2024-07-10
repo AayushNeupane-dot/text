@@ -1,0 +1,22 @@
+#head {
+  display: flex;
+  text-align: center;
+  text-decoration: none;
+}
+#head .header-navigation {
+  margin-left: auto;
+  color: black;
+}
+#head .header-navigation ul a {
+  text-decoration: none;
+}
+
+#image {
+  width: 15%;
+}
+
+.bakery-header {
+  width: 25px;
+}
+
+    
